@@ -12,9 +12,9 @@ $id=$_SESSION['customer_id'];
 $ln=$_SESSION['customer_last_name'];
 
 
-  define('EMAIL_TEXT_NO_DELIVERY',
+define('EMAIL_TEXT_NO_DELIVERY',
   '<p>Tidak ada Pengiriman, lihat dibawah:');
-  define('MODULE_PAYMENT_BANK_BCA_TEXT_EMAIL_FOOTER', 
+define('MODULE_PAYMENT_BANK_BCA_TEXT_EMAIL_FOOTER', 
   'Silakan ikuti detail untuk transfer nilai total pesanan anda:\n\n' .
   '\nNo. Rekening:  ' . MODULE_PAYMENT_BANK_BCA_ACCNUM .
   '\nBSB Number:   ' . MODULE_PAYMENT_BANK_BCA_BSB . 
