@@ -1,8 +1,10 @@
 # Bank-Transfer-Indonesia
  Zen Cart payment module, Bank Transfer in Indonesia
 
+
+-------------------------
 Contain:
-======
+-------------------------
  * BCA
  * BII
  * BNI
@@ -21,10 +23,13 @@ Contain:
 -------------------------
 Compatibility
 -------------
- * Zen Cart v1.5.7
-
+ * Zen Cart v1.5.6 **_(Tested)_**
+ * Zen Cart v1.5.7 **_(Tested)_**
+  
+   
+-------------------------
 Installation
-------------
+-------------------------
 
 1. Download this distribution
 2. Unzip the downloaded zip file 
